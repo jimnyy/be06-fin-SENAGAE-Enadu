@@ -37,8 +37,8 @@
 - [🛠 기술 스택](#-기술-스택)
 - [📚 Enadu 사이트 바로가기](#-enadu-사이트-바로가기)
 - [🎁 Enadu 서비스 소개](#-enadu-서비스-소개)
-- [🤳 프로젝트 목표](#-프로젝트-목표)
 - [📈 프로젝트 설계](#-프로젝트-설계)
+- [📂 개발 폴더 바로가기](#-개발-폴더-바로가기)
 <br><br>
 
 
@@ -84,9 +84,11 @@
 <br><br><br>
 
 
-## 📚 Enadu 사이트 바로가기
+# 📚 Enadu 사이트 바로가기
 ### [Enadu website](https://enadu.p-e.kr)</a>
 <br><br>
+
+
 ## 🎨 Enadu 서비스 소개
 <img src= "https://github.com/user-attachments/assets/2a07b47d-e074-4821-b5ac-3b445c6a9f1a">
 
